@@ -9,9 +9,17 @@ body
     background-color: #4ea0ff;
 }
 
+#logo
+{
+    background-image: url("./BONUS/BONUS/pattern.png");
+    background-size: contain;
+    height: 100px;
+}
+
 #logo-image
 {
     width: 200px;
+    padding-top: 50px;
 }
 
 h1
